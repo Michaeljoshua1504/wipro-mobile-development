@@ -14,7 +14,7 @@ public class variables {
         a = 6;
         System.out.println("The value of a is: " + a);
         
-        // constant --> value should not change
+     
         final int b = 10;
         System.out.println(b);
     }

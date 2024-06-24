@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rightangletriangle",
+            "request": "launch",
+            "mainClass": "rightangletriangle",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
+            "name": "oddtriangle",
+            "request": "launch",
+            "mainClass": "oddtriangle",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
+            "name": "invertedrightangletriangle",
+            "request": "launch",
+            "mainClass": "invertedrightangletriangle",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
+            "name": "eventriangle",
+            "request": "launch",
+            "mainClass": "eventriangle",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
+            "name": "hollowtriangle",
+            "request": "launch",
+            "mainClass": "hollowtriangle",
+            "projectName": "Java Practice_9395fe28"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
